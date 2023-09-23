@@ -48,10 +48,11 @@ The fastest way to get this preprocessing script of this project running would b
   - SQL/
     - create_db_table.sql
     - disease.sql
+    - quries.sql
   - md/ 
     - CODE_OF_CONDUCT.md    
   - requirements.txt
-  - quries.sql
+  
 
 # [Contributing](#contributing)
 We welcome contributions to improve this project! To contribute, follow these steps:
